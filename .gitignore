@@ -1,0 +1,6 @@
+.trash/
+.venv/
+.database_fmcsa_until_jan2023.csv
+.SummaryExport.xlsx
+
+
