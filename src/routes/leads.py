@@ -16,7 +16,7 @@ class LeadsView(MethodView):
     def post(self):
         '''This endpoint takes an .xlsx file
         and turns the data into dictionaries
-        in orden to save the information into
+        in order to save the information into
         mongo's collection.'''
 
         # Here we receive the client's posted file.
