@@ -1,8 +1,8 @@
 .trash/
 .venv/
 .idea/
-.database_fmcsa_until_jan2023.csv
-.SummaryExport.xlsx
+database_fmcsa_until_jan2023.csv
+SummaryExport.xlsx
 .DS_Store
 .gitignore
 .__pycache__/
